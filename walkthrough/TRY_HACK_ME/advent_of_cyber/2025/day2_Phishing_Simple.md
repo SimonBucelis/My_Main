@@ -47,7 +47,7 @@ Captured -> username: admin password: unranked-wisdom-anthem from: IP
 
 text
 
-# Q2 - What is the total number of toys expected for delivery?
+# What is the total number of toys expected for delivery?
 
 http://<IP_ADDRESS_NOTED_FROM_Q1_ANSWER>
 
@@ -59,3 +59,4 @@ password: unranked-wisdom-anthem
 
 text
 undefined
+

@@ -57,6 +57,6 @@ text
 username: factory
 password: unranked-wisdom-anthem
 
-text
-undefined
+* After logged in, click on the Urgent: Production & Shipping Request - 1984000 Units (Next 2 Weeks) email
+
 
